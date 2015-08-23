@@ -1,0 +1,6 @@
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\bin\Debug\Competancies.exe.config
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\bin\Debug\Competancies.exe
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\bin\Debug\Competancies.pdb
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\obj\Debug\Competancies.csprojResolveAssemblyReference.cache
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\obj\Debug\Competancies.exe
+c:\users\grace.davies\documents\visual studio 2013\Projects\Competancies\Competancies\obj\Debug\Competancies.pdb
