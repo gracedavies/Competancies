@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IDisposableExample\Finalizing.cs" />
+    <Compile Include="IDisposableExample\FinalizingExample.cs" />
     <Compile Include="IDisposableExample\WriteToFileUsingStatement.cs" />
     <Compile Include="IDisposableExample\UsingIDisposableCorrectlySQlConnection.cs" />
     <Compile Include="IDisposableExample\MisusingIDisposable.cs" />
